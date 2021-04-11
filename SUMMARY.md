@@ -13,4 +13,5 @@
 ## Additional Tutorials
 
 * [Coming Soon!](additional-tutorials/coming-soon.md)
+* [Advanced: Setting switches](additional-tutorials/advanced-setting-switches.md)
 

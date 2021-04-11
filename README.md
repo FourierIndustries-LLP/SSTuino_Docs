@@ -6,7 +6,11 @@ description: "The SSTuino Knowledge Base is an all-in-one reference for the SSTu
 
 SSTuino is an easy to use Wi-Fi enabled microcontroller, designed and fabricated by SST Alumni. Users can write programs to connect or control things over the Internet. It is derived from the SPEEEduino 1.1 with some improvements.
 
-This Knowledge Base currently focuses on the SSTuino Rev C. 
+{% hint style="info" %}
+**This version of the Knowledge Base currently focuses on the SSTuino Rev C.** 
+
+For older versions of the SSTuino, please contact us directly through the form and we will provide the relevant documentation and changes.
+{% endhint %}
 
 ![](https://github.com/sammy0025/SSTuino/raw/master/Image%20Assets/SSTuino.png)
 
@@ -14,15 +18,6 @@ This Knowledge Base currently focuses on the SSTuino Rev C.
 
 * 💻 [SSTuino Home Page](https://sstuino.fourier.industries)
 * ✉ Contact us through this form
-
-
-
-|  | GPIO0 \(1\) | GPIO2 \(2\) | ESP-RX connect to D4 \(3\) | ESP-TX connect to D2 \(4\) | ESP-RESET Button |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| Wi-Fi Enable | ⬆️ | ⬆️ | ⬆️ | ⬆️ | Leave open |
-| Disconnect ESP-01 | ❎ | ❎ | ⬇️ | ⬇️ | Leave open |
-| Reset ESP-01 | ❎ | ❎ | ❎ | ❎ | Press down |
-| Flash ESP-01 | ⬇️ | ⬆️ | ⬇️ | ⬇️ | Press down, set switches, release |
 
 ### Our team
 
